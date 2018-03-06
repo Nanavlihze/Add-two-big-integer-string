@@ -1,8 +1,6 @@
 # Add-two-big-integer-string
 Add two integer string replace exponential with actual value
-
-
-function sumStrings(a, b){
+function sumIntegerStrings(a, b){
   if(a == 0)
     return b;
   if(b == 0)
